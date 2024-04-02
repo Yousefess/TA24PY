@@ -12,73 +12,13 @@ This course will be focus on the `Python programming language`. The course sched
 
 ![Weeks](./images/Schedule.png)
 
----
-
 ## Table of Course Content
 
-### [Week 01 : Python Basic Data Types](https://github.com/Yousefess/TA24PY/tree/main/Weeks/01%20Python%20Basic%20Data%20Types)
-
-**`Basic Data Types`**
-
-- Integer
-  - No Real Limit
-  - Type of Integers
-- Floating-Point Numbers
-- Complex Numbers
-- Strings
-  - Basic Representation of Strings
-  - Including Quotes in Strings
-  - Escape Sequences in Strings
-    - Suppressing Special Character Meaning
-    - Applying Special Meaning to Characters
-  - Raw Strings
-  - Triple-Quoted Strings
-- Boolean Type
-
-**`Variables`**
-
-- Variable Assignment
-- Variable Types in Python
-- Variable Names
-  - PEP 8
-- Reserved Words (Keywords)
-- Constants in Python
-  - Naming Convention
-
-**`Conversion Between Data Types`**
-
-- Introduction
-- Types of Type Conversion in Python
-- Python Implicit Type Conversion
-- Python Explicit Type Conversion (Typecasting)
-- Key Points to Remember
-
-**`Operators and Expressions`**
-
-- Basic Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- Assignment Operators
-- Membership Operators
-- (Optional) Bitwise Operators
-- Operator Precedence and Associativity
-  - Operator Precedence
-  - Associativity
-- Building Complex Expressions
-  - Start Simple
-  - Use Parentheses
-  - Avoid Overcomplicating
-  - Use Descriptive Variable Names
-  - Test Each Part
-  - Comment Your Code
-  - Stay Updated with Language Features
-
-### [Week 02 : String + List](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List)
-
-**`String`**
-
-
----
+| Weeks | Topic |
+| :-----: | :-----: |
+| 01 | [Python Basic Data Types](https://github.com/Yousefess/TA24PY/tree/main/Weeks/01%20Python%20Basic%20Data%20Types) |
+| 02 | [String + List](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List) |
+| 03 | [Tuple + Dictionary](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary) |
 
 ## References
 
