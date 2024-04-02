@@ -12,11 +12,9 @@ This course will be focus on the `Python programming language`. The course sched
 
 ## Table of Course Content
 
-| Weeks | Topic |
-| :-----: | :-----: |
-| 01 | [Python Basic Data Types](https://github.com/Yousefess/TA24PY/tree/main/Weeks/01%20Python%20Basic%20Data%20Types) |
-| 02 | [String + List](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List) |
-| 03 | [Tuple + Dictionary](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary) |
+| Weeks | Topic | Weeks | Topic | Weeks | Topic |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 | [Python Basic Data Types](https://github.com/Yousefess/TA24PY/tree/main/Weeks/01%20Python%20Basic%20Data%20Types) | 02 | [String + List](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List) | 03 | [Tuple + Dictionary](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary) |
 
 ---
 
