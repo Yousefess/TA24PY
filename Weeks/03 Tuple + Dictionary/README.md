@@ -1,6 +1,6 @@
 # Tuple + Dictionary
 
-[**`Tuple`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Notebooks/01%20Tuple.ipynb)
+## [**`Tuple`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Notebooks/01%20Tuple.ipynb)
 
 - Creating and Accessing Tuples
   - Creating Tuples
@@ -16,7 +16,7 @@
   - Membership Testing
   - Count and Index Methods
 
-[**`Dictionary`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Notebooks/02%20Dictionary.ipynb)
+## [**`Dictionary`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Notebooks/02%20Dictionary.ipynb)
 
 - Characteristics of Python Dictionaries
 - Dictionaries vs Lists
@@ -64,23 +64,23 @@
   - Adding New Items to a Nested Dictionary
   - Working with Deeply Nested Dictionaries
 
-[**`Practice Exercises`**](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises)
+## [**`Practice Exercises`**](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises)
 
-- [**`First`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises/01%20Exercises.ipynb):
+### - [**`First`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises/01%20Exercises.ipynb)
 
-  - Exercise `1`: Create a Dictionary
-  - Exercise `2`: Retrieve and Print
-  - Exercise `3`: Updating Dictionary Values
-  - Exercise `4`: Remove Items
-  - Exercise `5`: Iterating Over a Dictionary
-  - Exercise `6`: Dictionary Comprehension
-  - Exercise `7`: Nested Dictionaries
-  - Exercise `8`: Clearing a Dictionary
+- Exercise `1`: Create a Dictionary
+- Exercise `2`: Retrieve and Print
+- Exercise `3`: Updating Dictionary Values
+- Exercise `4`: Remove Items
+- Exercise `5`: Iterating Over a Dictionary
+- Exercise `6`: Dictionary Comprehension
+- Exercise `7`: Nested Dictionaries
+- Exercise `8`: Clearing a Dictionary
 
-- [**`Second`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises/02%20Exercises.ipynb):
+### - [**`Second`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/03%20Tuple%20%2B%20Dictionary/Practice%20Exercises/02%20Exercises.ipynb)
 
-  - Exercise `1`: Membership Test
-  - Exercise `2`: Default Values with `setdefault`
-  - Exercise `3`: Updating a Single Item
-  - Exercise `4`: Dictionary Merging and Updating
-  - Exercise `5`: Nested Dictionary Access
+- Exercise `1`: Membership Test
+- Exercise `2`: Default Values with `setdefault`
+- Exercise `3`: Updating a Single Item
+- Exercise `4`: Dictionary Merging and Updating
+- Exercise `5`: Nested Dictionary Access

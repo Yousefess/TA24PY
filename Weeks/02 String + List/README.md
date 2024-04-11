@@ -1,6 +1,6 @@
 # String + List
 
-[**`String`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/02%20String%20%2B%20List/Notebooks/01%20Strings.ipynb)
+## [**`String`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/02%20String%20%2B%20List/Notebooks/01%20Strings.ipynb)
 
 - What is a string?
 - Creating and Assigning Strings in Python
@@ -32,19 +32,19 @@
   - Raw Strings
 - Practical Example: File Paths
 
-[**`List`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/02%20String%20%2B%20List/Notebooks/02%20List.ipynb)
+## [**`List`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/02%20String%20%2B%20List/Notebooks/02%20List.ipynb)
 
 - Composite Data Types
 - Creating Lists
-    - Syntax for List Creation
-    - Creating Empty Lists
-    - Lists From Other Data Types
-    - Creating Lists with * Operator
-    - Creating Lists with Range
+  - Syntax for List Creation
+  - Creating Empty Lists
+  - Lists From Other Data Types
+  - Creating Lists with * Operator
+  - Creating Lists with Range
 - Using Built-in Functions with Lists
-    - `len()`
-    - `max()` and `min()`
-    - `sum()`
+  - `len()`
+  - `max()` and `min()`
+  - `sum()`
 - Accessing Elements Using Indexing
 - Accessing Elements Using Slicing
 - Updating Elements
@@ -57,7 +57,7 @@
 - Reversing the Order of a List
 - Sorting a List
 
-[**`Practice Exercises`**](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List/Practice%20Exersises)
+## [**`Practice Exercises`**](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List/Practice%20Exersises)
 
 - Exercise `1`: Create and Modify List
 - Exercise `2`: Access and Slice
