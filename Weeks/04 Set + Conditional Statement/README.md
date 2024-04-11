@@ -1,6 +1,6 @@
 # Set + Conditional Statement
 
-## [**`Sets`**]()
+## [**`Sets`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/04%20Set%20%2B%20Conditional%20Statement/Notebooks/01%20Sets.ipynb)
 
 - Creating Sets in Python
   - Set Creation Syntax
@@ -35,7 +35,7 @@
   - Symmetric Difference: `^` vs. `.symmetric_difference()`
   - Considerations for Choice
 
-## [**`Conditional Statement`**]()
+## [**`Conditional Statement`**](https://github.com/Yousefess/TA24PY/blob/main/Weeks/04%20Set%20%2B%20Conditional%20Statement/Notebooks/02%20Conditional%20Statements.ipynb)
 
 - The `if` Statement
 - The `else` Statement
