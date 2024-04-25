@@ -15,7 +15,7 @@ This course will be focus on the `Python programming language`. The course sched
 | Weeks | Topic | Weeks | Topic | Weeks | Topic |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 01 | [Python Basic Data Types](https://github.com/Yousefess/TA24PY/tree/main/Weeks/01%20Python%20Basic%20Data%20Types) | 02 | [String + List](https://github.com/Yousefess/TA24PY/tree/main/Weeks/02%20String%20%2B%20List) | 03 | [Tuple + Dictionary](https://github.com/Yousefess/TA24PY/tree/main/Weeks/03%20Tuple%20%2B%20Dictionary) |
-| 04 | [Set + Conditional Statement](https://github.com/Yousefess/TA24PY/tree/main/Weeks/04%20Set%20%2B%20Condition/Notebooks) | 05 | [Loop](https://github.com/Yousefess/TA24PY/tree/main/Weeks/05%20Loop)| | |
+| 04 | [Set + Conditional Statement](https://github.com/Yousefess/TA24PY/tree/main/Weeks/04%20Set%20%2B%20Condition/Notebooks) | 05 | [Loop](https://github.com/Yousefess/TA24PY/tree/main/Weeks/05%20Loop)| 06 | [Function](https://github.com/Yousefess/TA24PY/tree/main/Weeks/06%20Function) |
 
 ---
 
